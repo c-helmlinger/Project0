@@ -8,7 +8,7 @@ There are 284808 cases, among which there are 490 fraud cases.
 ## Brainstorm
 
 We can divide the dataset into two groups: one is training set, and the other one is testing set. 
-Then, we find  the characteristics of fraud through  machine learning from the training data set.   
+Then, we find  the characteristics of fraud through  machine learning from the training data set. 
 Third, we test the accuracies of the model in the test set.
 Also, we can repeat the steps by updating the training set to make the model more accurate.
 
