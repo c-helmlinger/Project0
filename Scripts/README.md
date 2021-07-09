@@ -1,1 +1,1 @@
-This is a folder for scripts.
+# This is a folder for scripts.
