@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(
-  name='LinearRegression_combined_v1_highest',
+  name='Project0',
   author='Jessica Zhang',
   version='1.0.0',
-  description='Uses outsourced data to predict housing prices, then visualizes."
+  description='Takes outsourced data to predict housing prices, then visualizes."
   packages='Project0'
 )
