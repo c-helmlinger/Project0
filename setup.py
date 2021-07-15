@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-  name='Linear_Regression',
+  name='Project0',
   author='Jessica Zhang',
   version='1.0.0',
   description='Uses outsourced data to predict housing prices, then visualizes.',
