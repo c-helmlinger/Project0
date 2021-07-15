@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-  name='NN Regressor Rough.py',
+  name='Neural_Network',
   author='Kevin Zheng',
   version='1.0.0',
   description='Uses outsourced data to predict housing prices, then visualizes.",
