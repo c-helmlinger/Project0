@@ -7,4 +7,5 @@ setup(
   version='1.0.0',
   description='Uses outsourced data to predict housing prices, then visualizes.',
   packages='Linear_Regression',
+  package_dir={'Linear_Regression_FinalVersion':'Scripts'},
 )
