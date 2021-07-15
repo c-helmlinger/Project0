@@ -1,4 +1,3 @@
-pip install setuptools
 from setuptools import setup
 
 setup(
